@@ -4,7 +4,7 @@
   Fullstack developer,<br>
   <br>
   🎓 Graduated Digital Media Design from West Liberty University (WV)<br>
-  💻 I am a self employee developer (freelance), working the last three years for <a href="https://www.parisaeroport.fr/homepage-groupe">Groupe ADP</a> also founder of <a href="https://anywwwhere.com/">Anywwwhere</a> digital agency. I am not contributing a lot on Github since I commit 90% of my last three years work on Azure Devops and Gitlab. 
+  💻 I am a self employee developer (freelance), working the last three years for <a href="https://www.parisaeroport.fr/homepage-groupe">Groupe ADP</a> also founder of <a href="https://anywwwhere.com/">Anywwwhere</a> digital agency. I am not contributing a lot on Github since I am committin 95% of my last three years work on Azure Devops and Gitlab. 
   🎥 I am teaching some webdevelopment on YouTube through <a href="https://www.youtube.com/channel/UC_C6raN7kBGW-lyEnIOFInw">my channel</a><br>
   <br><br>
   📫 How to reach me:
